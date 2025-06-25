@@ -9,16 +9,16 @@ API_ID = int(environ.get('API_ID', '22923037'))
 API_HASH = environ.get('API_HASH', 'dfb3666878b3851460a58461c5a50f5b')
 
 # Bot Token, This Is Main Bot
-BOT_TOKEN = environ.get('BOT_TOKEN', "7314756518:AAEzeqd5uHdI4MEzBnYANNaR5RMnqLJGiTc")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7611297559:AAHrjKSFw_yVlMVAfeK3aBSnKPFTISDt014")
 
 # Admin Telegram Account Id For Withdraw Notification Or Anything Else
 ADMIN = int(environ.get('ADMIN', '7576541713'))
 
 # Back Up Bot Token For Fetching Message When Floodwait Comes
-BACKUP_BOT_TOKEN = environ.get('BACKUP_BOT_TOKEN', "8065908837:AAGH5JuWOL6VrLVm2zehXsn2LhBoYr5bUWg")
+BACKUP_BOT_TOKEN = environ.get('BACKUP_BOT_TOKEN', "7719409464:AAGfzeLgQCuEo7qgNb7drRnyyR2MgkcDXpA")
 
 # Log Channel, In This Channel Your All File Stored.
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002379106494'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002775795315'))
 
 # Mongodb Database For User Link Click Count Etc Data Store.
 MONGODB_URI = environ.get("MONGODB_URI", "mongodb+srv://vikassonawale0:JWyQFas7vlG1bkaL@cluster0.beermge.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
